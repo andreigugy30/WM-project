@@ -1,0 +1,21 @@
+{
+  "name": "webmagnatproject",
+  "version": "1.0.0",
+  "description": "PSD to HTML project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gugeanu Andrei",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.1.0",
+    "grunt-wiredep": "^3.0.1"
+  }
+}
